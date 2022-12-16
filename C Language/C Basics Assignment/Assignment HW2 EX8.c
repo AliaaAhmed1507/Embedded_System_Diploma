@@ -39,7 +39,7 @@ int main() {
 		break;
 	}
 
-	printf("%f %c %f = %f",n1 ,c ,n1 ,result);
+	printf("%f %c %f = %f",n1 ,c ,n2 ,result);
 	fflush(stdin); fflush(stdout);
 	return 0;
 }
