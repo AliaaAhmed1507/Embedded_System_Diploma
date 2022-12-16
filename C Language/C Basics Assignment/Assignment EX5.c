@@ -13,7 +13,7 @@ int main() {
 	fflush(stdin); fflush(stdout);
 	scanf("%c",&c);
 	fflush(stdin); fflush(stdout);
-	printf("Product: %d",c);
+	printf("ASCII value of %c = %d",c,c);
 	fflush(stdin); fflush(stdout);
 	return 0;
 }
